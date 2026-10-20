@@ -1,36 +1,21 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:161B22,100:00C896&height=200&section=header&text=Muntaha&fontSize=54&fontColor=00C896&fontAlignY=38&desc=CS%20Student%20%7C%20Java%20%26%20Full-Stack%20Learner&descSize=16&descColor=C9D1D9&descAlignY=60" alt="banner"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C896&center=true&vCenter=true&width=560&lines=%3E+building+desktop+apps+with+Java+Swing;%3E+exploring+full-stack+with+Rails+and+Next.js;%3E+learning+something+new+every+week" alt="typing"/>
+  <img src="banner.svg" alt="Muntaha banner" width="100%"/>
 </p>
 
 <p align="center">
   <a href="mailto:sidratulmuntahanidhi011@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00C896" alt="Gmail"/></a>
 </p>
 
-## 💻 ~/about
+## 👩‍💻 About Me
 
 CS student who loves turning ideas into working software, with a growing passion for full-stack development and always picking up something new along the way.
 
-```bash
-$ whoami
-muntaha, CS student
+- 🔭 Currently building desktop apps with **Java Swing** and full-stack apps with **Rails and Next.js**
+- 🌱 Learning more about **Spring Boot, Rails, React and Next.js**
+- 💬 Ask me about **Java, OOP and web basics**
+- ⚡ Fun fact: I once got stuck inside vim and escaped with `:q!`
 
-$ cat now.txt
-> building desktop apps with Java Swing
-> building full-stack apps with Rails and Next.js
-
-$ cat ask-me-about.txt
-Java, OOP, web basics
-
-$ echo $FUN_FACT
-I once got stuck inside vim and escaped with :q!
-```
-
-## ⚙️ ~/stack
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -62,12 +47,6 @@ I once got stuck inside vim and escaped with :q!
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## 📡 ~/contact
+## 📫 Contact
 
-```bash
-$ mail sidratulmuntahanidhi011@gmail.com
-```
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:161B22,100:00C896&height=100&section=footer" alt="footer"/>
-</p>
+📧 sidratulmuntahanidhi011@gmail.com
