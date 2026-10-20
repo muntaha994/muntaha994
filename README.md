@@ -1,7 +1,7 @@
 # Hi there 👋, it's me Muntaha
 
 <p align="center">
-  <img src="banner.svg" alt="Muntaha banner" width="560"/>
+ <img src="banner.svg" alt="Muntaha banner" width="100%"/>
 </p>
 
 ## 👩‍💻 About Me
