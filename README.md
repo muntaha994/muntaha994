@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="banner.svg" alt="Muntaha banner" width="100%"/>
-</p>
+# Hi there 👋, it's me Muntaha
 
 <p align="center">
-  <a href="mailto:sidratulmuntahanidhi011@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00C896" alt="Gmail"/></a>
+  <img src="banner.svg" alt="Muntaha banner" width="560"/>
 </p>
 
 ## 👩‍💻 About Me
